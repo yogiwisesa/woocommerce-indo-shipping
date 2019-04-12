@@ -4,7 +4,7 @@
 */
 class WCIS_API {
   private $api_key;
-  private $api_base = 'http://pro.rajaongkir.com/api';
+  private $api_base = 'http://api.rajaongkir.com/starter';
 
   const PROVINCE_URL = '/province';
   const COST_URL = '/cost';
